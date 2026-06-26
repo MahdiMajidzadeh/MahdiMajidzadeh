@@ -14,21 +14,6 @@ Outside the day job: I write about product management and leadership on my blog,
 
 ---
 
-## Open Source
-
-Most of my repos are tools I built because they didn't exist in Persian/Arabic-friendly form.
-
-| Project | What it does | Stars |
-|---|---|---|
-| [bootstrap-v4-rtl](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl) | RTL port of Bootstrap v4 for Farsi & Arabic | ⭐ 467 |
-| [materialize-rtl](https://github.com/MahdiMajidzadeh/materialize-rtl) | RTL version of Materialize CSS v1.0 | ⭐ 82 |
-| [persianalize](https://github.com/MahdiMajidzadeh/persianalize) | Laravel package for normalizing Persian text | ⭐ 9 |
-| [laravel-kavenegar](https://github.com/MahdiMajidzadeh/laravel-kavenegar) | Laravel wrapper for Kavenegar SMS | ⭐ 11 |
-| [Laravel-Unsplash](https://github.com/MahdiMajidzadeh/Laravel-Unsplash) | Unsplash API wrapper for Laravel | ⭐ 11 |
-| [iranian-businesses-data-reports](https://github.com/MahdiMajidzadeh/iranian-businesses-data-reports) | Archive of data reports from Iranian companies | ⭐ 19 |
-
----
-
 
 ## Writing
 
